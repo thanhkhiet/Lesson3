@@ -8,7 +8,7 @@
 
 #import "AppDelegate.h"
 
-@implementation AppDelegate
+@implementation BIDAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
